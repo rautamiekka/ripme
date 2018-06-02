@@ -5,7 +5,7 @@
 
 # Osallistu
 
-RipMe:tä ylläpidetään ♥️:lla ja **[@MetaPrime](https://github.com/metaprime)**n ja **[@cyian-1756](https://github.com/cyian-1756)**:n vapaa-aikana. Jos haluaisit osallistua mutta et osaa ohjelmoida voit pitää meidät iloisina lahjoittamalla!
+RipMe:tä ylläpidetään ♥️:lla **[@MetaPrime](https://github.com/metaprime)**:n, **[@cyian-1756](https://github.com/cyian-1756)**:n ja **[@kevin51jiang](https://github.com/kevin51jiang)**:n vapaa-aikana. Jos haluaisit osallistua mutta et osaa ohjelmoida voit pitää meidät iloisina lahjoittamalla!
 
 [![Tippiä PayPalilla](https://img.shields.io/badge/PayPal-Buy_us...-lightgrey.svg)](https://www.paypal.me/ripmeapp)
 [![Tippiä PayPalilla](https://img.shields.io/badge/coffee-%245-green.svg)](https://www.paypal.com/paypalme/ripmeapp/send?amount=5.00&currencyCode=USD&locale.x=en_US&country.x=US)
