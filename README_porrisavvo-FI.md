@@ -5,7 +5,7 @@
 
 # Osallistu
 
-*RipMe*:t ylpirrettää ♥️:rel ja **[@MetaPrime](https://github.com/metaprime)** ja **[@cyian-1756](https://github.com/cyian-1756)** vap'aikkan. Jos hallussit ossallistuu muttet ossaa koorat voit pittee meij illossen lahjjottammal!
+*RipMe*:t ylpirrettää ♥️:rel **[@MetaPrime](https://github.com/metaprime)**, **[@cyian-1756](https://github.com/cyian-1756)** ja **[@kevin51jiang](https://github.com/kevin51jiang)** vap'aikkan. Jos hallussit ossallistuu muttet ossaa koorat voit pittee meij illossen lahjjottammal!
 
 [![Tippii PayPalil](https://img.shields.io/badge/PayPal-Buy_us...-lightgrey.svg)](https://www.paypal.me/ripmeapp)
 [![Tippii PayPalil](https://img.shields.io/badge/coffee-%245-green.svg)](https://www.paypal.com/paypalme/ripmeapp/send?amount=5.00&currencyCode=USD&locale.x=en_US&country.x=US)
